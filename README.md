@@ -20,15 +20,18 @@ Make sure to ask it something fun like "Should I hire Matt?".
 
 <p align="center">
 Home Page: <br/>
+  <br/>
 <img src="./images/magic_8_ball_main.png" height="80%" width="80%" alt="Magic 8 Ball"/>
 <br />
 <br />
-Click Ask Me Anything and Input Question:  <br/>
+Click Ask Me Anything and Input Question.  <br/>
+  <br/>
 <img src="./images/magic_8_ball_ask.png" height="80%" width="80%" alt="Magic 8 Ball"/>
 <br />
 <br />
-See What "Shakes" Out: <br/>
-<img src="./images/magic_8_ball.png" height="80%" width="80%" alt="Magic 8 Ball"/>
+See What "Shakes" Out! <br/>
+  <br/>
+<img src="./images/magic_8_ball_answer.png" height="80%" width="80%" alt="Magic 8 Ball"/>
 <br />
 <br />
 
